@@ -1,0 +1,41 @@
+
+#nav {
+	
+	width: 1000px;
+	height: 40%;
+	margin-left: 10%;
+}
+
+
+#nav div{
+width: 24%;
+height: 300px;
+background: black;
+float: left;
+margin: 5px;
+
+}
+
+#nav img{
+width: 100%;
+height: 70%;
+		}
+
+		#nav h1{
+font-size: 15px;
+color: white;
+text-align: center;
+height: 5%;
+		}
+
+		#nav h5{
+			font-size: 10px;
+			color: white;	
+			text-align: justify;			
+		}
+
+		#nav label{
+			margin: 10%;
+		}
+		
+

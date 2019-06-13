@@ -1,0 +1,99 @@
+.caja{
+	background-color: white;
+	width: 94%;
+	height: 2200px;
+	position: absolute;
+	top: 240px;
+	border-radius: 20px;
+	opacity: 0.2;
+}
+.contenido{
+	/*background-color: blue;*/
+	width: 60%;
+	position: relative;
+	bottom:-30px;
+	left: 15px;
+}
+
+.contenido h1{
+	color: white;
+	text-align: center;
+	position: relative;
+	left: 180px;
+
+}
+
+.contenido h2{
+	text-align: justify;
+	color: white;
+}
+.contenido p{
+	text-align: justify;
+	color: white;
+	font-size: 20px;
+	padding: 15px;
+}
+
+
+.contenido #img1{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 90px;
+}
+.contenido #img2{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 380px;
+}
+
+.contenido #img3{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 680px;
+}
+
+.contenido #img4{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 990px;
+}
+
+.contenido #img5{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 1310px;
+}
+
+
+.contenido #img6{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 1625px;
+}
+
+.contenido #img7{
+	width: 250px;
+	height: 250px;
+	border-radius: 10px;
+	position: absolute;
+	right:-320px;
+	top: 1925px;
+}

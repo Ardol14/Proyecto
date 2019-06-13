@@ -1,0 +1,104 @@
+.caja{
+	background-color: white;
+	   opacity: 0.2;
+	   border-radius: 20px;
+	   width: 55%;
+	   height: 160%;
+	   position: absolute;
+	   left:20px;
+	   top:240px;
+
+}
+
+.caja1 {
+		line-height: 30px;
+		text-align: justify;
+		padding:15px;
+		font-size: 15px;
+		left: 35px;
+		position:relative;
+		width: 48%;
+		top: 120px;
+		color: white;
+	}
+
+.caja1 h1{
+		color: white;
+		font-family: chiller;
+		font-size: 50px;
+		text-align: center;
+		position: absolute;
+		left: 32%;
+		top:-30px;
+	}
+	
+.
+.caja1 img{
+	border-radius: 20px;
+	}
+
+
+	
+
+.cajaa{
+	position: absolute;
+	left:23px;
+	top: 650px;
+}
+
+
+
+.caja2 {
+	   background-color: white;
+	   opacity: 0.2;
+	   border-radius: 20px;
+   		position:absolute;
+		top: 350px;
+		left:63%;
+		color: white;
+		width: 30%;
+		height: 1100%;
+		}
+
+
+.im{
+	
+	position:absolute;
+	right:400px;
+	top: 375px;
+}
+.im img{
+ border-radius: 20px;
+position: absolute;
+left:68%;
+top: 350%;
+width: 260px;
+ }
+ .imm img{
+ 	border-radius: 20px;
+ 	position: absolute;
+ 	left: 68%;
+ 	top: 1150%;
+ }
+
+.im h1{
+	
+	color: white;
+	font-size: 40px;
+	position: absolute;
+	left: 31px;
+	top: 180px;
+
+}
+
+.im iframe{
+	position: absolute;
+	left: 10px;
+	top:280px;
+}
+
+.fra{
+	position: absolute;
+	left: 5px;
+	top: 340px;
+}

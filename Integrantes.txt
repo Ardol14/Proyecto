@@ -1,0 +1,6 @@
+Equipo: "BROTHERS BRAINS"
+
+Integrantes:
+*Cruz Portillo Jesus Jonathan
+*Chavarria Olmedo Hector Gabriel
+*Lopez Garcia Rodrigo
